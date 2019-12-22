@@ -2,10 +2,10 @@
   "name": "betterfilesystem",
   "version": "0.0.1",
   "description": "A better and safe filesystem module",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc --build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
