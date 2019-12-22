@@ -9,7 +9,6 @@ class FileSystem
     {
         return fs.existsSync(filePath);
     }
-
     
     public static IsDirectory(filePath: string)
     {
