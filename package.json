@@ -1,0 +1,30 @@
+{
+  "name": "betterfilesystem",
+  "version": "0.0.1",
+  "description": "A better and safe filesystem module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WatcherWhale/BetterFileSystem.git"
+  },
+  "keywords": [
+    "fs",
+    "filesystem",
+    "better",
+    "safe",
+    "cache"
+  ],
+  "author": "Mathias Maes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WatcherWhale/BetterFileSystem/issues"
+  },
+  "homepage": "https://github.com/WatcherWhale/BetterFileSystem#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.21"
+  }
+}
