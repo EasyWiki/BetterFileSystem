@@ -1,5 +1,5 @@
 {
-  "name": "betterfilesystem",
+  "name": "@easywiki/betterfilesystem",
   "version": "0.0.1",
   "description": "A better and safe filesystem module",
   "main": "dist/index.js",
