@@ -1,6 +1,6 @@
 {
   "name": "@easywiki/betterfilesystem",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A better and safe filesystem module",
   "main": "dist/index.js",
   "scripts": {

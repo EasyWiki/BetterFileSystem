@@ -41,6 +41,11 @@ class FileSystem
     {
         fs.writeFileSync(filePath, contents);
     }
+
+    public static AppendFile(filePath: string, line: string)
+    {
+        fs.appendFileSync(filePath, line);
+    }
     
     public static CopyFile(srcPath: string, destFile: string)
     {
